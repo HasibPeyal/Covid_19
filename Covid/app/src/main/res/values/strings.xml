@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid</string>
+
+
+    <array name="genres">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Noakhali</item>
+
+
+    </array>
+
+
+</resources>
